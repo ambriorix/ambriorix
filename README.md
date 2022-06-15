@@ -28,7 +28,7 @@
 [<img align="left" alt="ambriorixrijo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ambriorix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/0mm1n
+[twitter]: https://twitter.com/ambriorixrijo
 [instagram]: https://www.instagram.com/abmriorix/
 [linkedin]: https://linkedin.com/in/ambriorixrijo/
 
